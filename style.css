@@ -23,7 +23,6 @@ font-style:italic;}
 font-style:italic;
 }
 
-.some{
-  color: red;
-  font-style: Sans-serif;
+.shonk p strong{
+  font-size:20px;
 }
