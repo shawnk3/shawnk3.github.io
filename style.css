@@ -3,7 +3,7 @@ body{
   background-color:#589721;
 }
 
-
+/* this is a comment */
 
 h1{
   font-size: 50px;
@@ -18,7 +18,7 @@ h2{
 #table1{background-color: #ffccdd;
 font-style:italic;}
 
-.shonk{
+#shonk{
   color:pink;
 font-style:italic;
 }
